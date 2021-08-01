@@ -1,0 +1,22 @@
+﻿<Window x:Class="Pravokotnik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pravokotnik"
+        mc:Ignorable="d"
+        Title="WPF Color App" Height="581.83" Width="663.015">
+    <Grid Background="#ffebe6">
+        <Slider x:Name="sldRdeča" HorizontalAlignment="Left" Margin="113,74,0,0" VerticalAlignment="Top" Width="378" TickPlacement="TopLeft" Maximum="255" IsSnapToTickEnabled="True" ValueChanged="sldRdeča_ValueChanged"/>
+        <Slider x:Name="sldZelena" HorizontalAlignment="Left" Margin="113,135,0,0" VerticalAlignment="Top" Width="378" TickPlacement="TopLeft" Maximum="255" IsSnapToTickEnabled="True" ValueChanged="sldZelena_ValueChanged"/>
+        <Slider x:Name="sldModra" HorizontalAlignment="Left" Margin="113,194,0,0" VerticalAlignment="Top" Width="378" TickPlacement="TopLeft" Maximum="255" RenderTransformOrigin="0.475,3.909" IsSnapToTickEnabled="True" ValueChanged="sldModra_ValueChanged"/>
+        <Rectangle x:Name="p" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="220" Margin="83,277,0,0" Stroke="Black" VerticalAlignment="Top" Width="472"/>
+        <TextBox x:Name="txtR" TextChanged="TxtR_TextChanged" TextAlignment="Center" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="23" Margin="512,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43" Text="{Binding Value, ElementName=sldRdeča}"/>
+        <TextBox x:Name="txtG" TextChanged="TxtG_TextChanged" TextAlignment="Center" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="23" Margin="512,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43" Text="{Binding Value, ElementName=sldZelena}"/>
+        <TextBox x:Name="txtB" TextChanged="TxtB_TextChanged" TextAlignment="Center" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="23" Margin="512,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43" Text="{Binding Value, ElementName=sldModra}"/>
+        <Label Content="R" FontSize="30" HorizontalAlignment="Left" Margin="73,61,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.531,0.46"/>
+        <Label Content="G" FontSize="30" HorizontalAlignment="Left" Margin="74,122,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.585,0.575"/>
+        <Label Content="B" FontSize="30" HorizontalAlignment="Left" Margin="74,181,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.619,0.459"/>
+
+    </Grid>
+</Window>

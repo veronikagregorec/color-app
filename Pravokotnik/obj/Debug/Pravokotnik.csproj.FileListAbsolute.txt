@@ -1,0 +1,104 @@
+D:\Pro12\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+D:\Pro12\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe
+D:\Pro12\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.pdb
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csprojResolveAssemblyReference.cache
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\MainWindow.g.cs
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\App.g.cs
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.cache
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.lref
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\MainWindow.baml
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.g.resources
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.Properties.Resources.resources
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.GenerateResource.Cache
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.exe
+D:\Pro12\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.g.resources
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\WPF\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.g.resources
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\bin\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\bin\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik.g.resources
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\color picker\Pravokotnik\obj\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\bin\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\bin\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik.g.resources
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\RGB color picker\Pravokotnik\obj\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\bin\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\bin\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik.g.resources
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\RGB color picker – kopija\Pravokotnik\obj\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\bin\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\bin\Debug\Pravokotnik.pdb
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik.csprojAssemblyReference.cache
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\MainWindow.g.cs
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\App.g.cs
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.cache
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik_MarkupCompile.lref
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\MainWindow.baml
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik.g.resources
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik.Properties.Resources.resources
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik.exe
+C:\Users\Veronika\Desktop\WPF Colour Selection App\Pravokotnik\obj\Debug\Pravokotnik.pdb
